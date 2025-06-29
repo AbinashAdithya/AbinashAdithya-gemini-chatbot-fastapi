@@ -6,7 +6,7 @@ import google.generativeai as genai
 import osCC
 
 # Replace with your Gemini API Key
-genai.configure(api_key="AIzaSyAAP0lrg1QFSMsYCE6TQPaW6t0maX-2-Oc")
+genai.configure(api_key="Enter Your API key here"
 
 # Initialize the chatbot model
 model = genai.GenerativeModel("gemini-2.5-flash")
